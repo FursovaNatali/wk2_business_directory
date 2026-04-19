@@ -54,7 +54,7 @@ export default function ContactPage() {
           </Link>
         </div>
         <p className="text-lg text-gray-600">
-          Get in touch with our team. We'd love to hear from you!
+          Get in touch with our team. We&apos;d love to hear from you!
         </p>
       </header>
 
